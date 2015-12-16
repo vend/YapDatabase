@@ -287,7 +287,7 @@
 	if (*statement == NULL)
 	{
 		NSString *string = [NSString stringWithFormat:
-		  @"SELECT \"rowid\" FROM \"%1$@\" WHERE \"%1$@\" MATCH ?;", [parent tableName]];
+		  @"SELECT \"rowid\" FROM \"%1$@\" WHERE \"%1$@\" MATCH ? LIMIT 50;", [parent tableName]];
 		
 		sqlite3 *db = databaseConnection->db;
 		
