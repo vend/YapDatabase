@@ -4,15 +4,15 @@
 
 #import <Foundation/Foundation.h>
 
-#import "YapDatabaseExtension.h"
-#import "YapDatabaseCloudCoreOptions.h"
-#import "YapDatabaseCloudCoreConnection.h"
-#import "YapDatabaseCloudCoreTransaction.h"
+#import <YapDatabase/YapDatabaseExtension.h>
+#import <YapDatabase/YapDatabaseCloudCoreOptions.h>
+#import <YapDatabase/YapDatabaseCloudCoreConnection.h>
+#import <YapDatabase/YapDatabaseCloudCoreTransaction.h>
 
-#import "YapDatabaseCloudCoreOperation.h"
+#import <YapDatabase/YapDatabaseCloudCoreOperation.h>
 
-#import "YapDatabaseCloudCorePipeline.h"
-#import "YapDatabaseCloudCoreGraph.h"
+#import <YapDatabase/YapDatabaseCloudCorePipeline.h>
+#import <YapDatabase/YapDatabaseCloudCoreGraph.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

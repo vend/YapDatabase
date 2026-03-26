@@ -1,8 +1,8 @@
 #import <Foundation/Foundation.h>
 
-#import "YapDatabaseExtensionTransaction.h"
-#import "YapDatabaseRelationshipEdge.h"
-#import "YapDatabaseRelationshipNode.h"
+#import <YapDatabase/YapDatabaseExtensionTransaction.h>
+#import <YapDatabase/YapDatabaseRelationshipEdge.h>
+#import <YapDatabase/YapDatabaseRelationshipNode.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

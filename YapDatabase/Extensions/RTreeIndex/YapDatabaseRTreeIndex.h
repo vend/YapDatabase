@@ -1,11 +1,11 @@
 #import <Foundation/Foundation.h>
 
-#import "YapDatabaseExtension.h"
-#import "YapDatabaseRTreeIndexSetup.h"
-#import "YapDatabaseRTreeIndexHandler.h"
-#import "YapDatabaseRTreeIndexOptions.h"
-#import "YapDatabaseRTreeIndexConnection.h"
-#import "YapDatabaseRTreeIndexTransaction.h"
+#import <YapDatabase/YapDatabaseExtension.h>
+#import <YapDatabase/YapDatabaseRTreeIndexSetup.h>
+#import <YapDatabase/YapDatabaseRTreeIndexHandler.h>
+#import <YapDatabase/YapDatabaseRTreeIndexOptions.h>
+#import <YapDatabase/YapDatabaseRTreeIndexConnection.h>
+#import <YapDatabase/YapDatabaseRTreeIndexTransaction.h>
 
 /**
  * Welcome to YapDatabase!

@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import "YapActionItem.h"
+#import <YapDatabase/YapActionItem.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

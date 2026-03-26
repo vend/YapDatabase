@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import "YapDatabaseViewRangeOptions.h"
+#import <YapDatabase/YapDatabaseViewRangeOptions.h>
 
 @class YapDatabaseReadTransaction;
 

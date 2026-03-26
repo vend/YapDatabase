@@ -1,9 +1,9 @@
 #import <Foundation/Foundation.h>
 
-#import "YapDatabaseExtension.h"
+#import <YapDatabase/YapDatabaseExtension.h>
 
-#import "YapDatabaseCrossProcessNotificationConnection.h"
-#import "YapDatabaseCrossProcessNotificationTransaction.h"
+#import <YapDatabase/YapDatabaseCrossProcessNotificationConnection.h>
+#import <YapDatabase/YapDatabaseCrossProcessNotificationTransaction.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

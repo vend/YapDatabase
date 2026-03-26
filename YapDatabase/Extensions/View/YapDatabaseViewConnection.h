@@ -1,10 +1,10 @@
 #import <Foundation/Foundation.h>
 
-#import "YapDatabaseExtensionConnection.h"
+#import <YapDatabase/YapDatabaseExtensionConnection.h>
 
-#import "YapDatabaseViewChange.h"
-#import "YapDatabaseViewMappings.h"
-#import "YapDatabaseViewRangeOptions.h"
+#import <YapDatabase/YapDatabaseViewChange.h>
+#import <YapDatabase/YapDatabaseViewMappings.h>
+#import <YapDatabase/YapDatabaseViewRangeOptions.h>
 
 @class YapDatabaseView;
 

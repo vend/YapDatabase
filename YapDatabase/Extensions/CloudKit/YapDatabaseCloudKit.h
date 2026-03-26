@@ -1,17 +1,17 @@
 #import <Foundation/Foundation.h>
 #import <CloudKit/CloudKit.h>
 
-#import "YapDatabaseExtension.h"
+#import <YapDatabase/YapDatabaseExtension.h>
 
-#import "YapDatabaseCloudKitTypes.h"
-#import "YapDatabaseCloudKitOptions.h"
-#import "YapDatabaseCloudKitConnection.h"
-#import "YapDatabaseCloudKitTransaction.h"
+#import <YapDatabase/YapDatabaseCloudKitTypes.h>
+#import <YapDatabase/YapDatabaseCloudKitOptions.h>
+#import <YapDatabase/YapDatabaseCloudKitConnection.h>
+#import <YapDatabase/YapDatabaseCloudKitTransaction.h>
 
-#import "YDBCKChangeSet.h"
-#import "YDBCKMergeInfo.h"
-#import "YDBCKRecordInfo.h"
-#import "YDBCKRecord.h"
+#import <YapDatabase/YDBCKChangeSet.h>
+#import <YapDatabase/YDBCKMergeInfo.h>
+#import <YapDatabase/YDBCKRecordInfo.h>
+#import <YapDatabase/YDBCKRecord.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

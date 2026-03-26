@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import "YapDatabaseAutoViewConnection.h"
+#import <YapDatabase/YapDatabaseAutoViewConnection.h>
 
 @class YapDatabaseSearchResultsView;
 

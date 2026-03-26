@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import "YapDatabaseExtensionConnection.h"
+#import <YapDatabase/YapDatabaseExtensionConnection.h>
 
 @class YapDatabaseSecondaryIndex;
 

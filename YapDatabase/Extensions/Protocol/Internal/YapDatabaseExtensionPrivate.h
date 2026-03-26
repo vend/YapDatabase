@@ -1,19 +1,19 @@
 #import <Foundation/Foundation.h>
 
-#import "YapDatabaseExtension.h"
-#import "YapDatabaseExtensionConnection.h"
-#import "YapDatabaseExtensionTransaction.h"
+#import <YapDatabase/YapDatabaseExtension.h>
+#import <YapDatabase/YapDatabaseExtensionConnection.h>
+#import <YapDatabase/YapDatabaseExtensionTransaction.h>
 
-#import "YapDatabase.h"
-#import "YapDatabaseConnection.h"
-#import "YapDatabaseTransaction.h"
+#import <YapDatabase/YapDatabase.h>
+#import <YapDatabase/YapDatabaseConnection.h>
+#import <YapDatabase/YapDatabaseTransaction.h>
 
-#import "YapCollectionKey.h"
+#import <YapDatabase/YapCollectionKey.h>
 
 #ifdef SQLITE_HAS_CODEC
   #import <SQLCipher/sqlite3.h>
 #else
-  #import "sqlite3.h"
+  #import <sqlite3.h>
 #endif
 
 

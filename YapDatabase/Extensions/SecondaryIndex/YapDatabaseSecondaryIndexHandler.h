@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import "YapDatabaseExtensionTypes.h"
+#import <YapDatabase/YapDatabaseExtensionTypes.h>
 
 @class YapDatabaseReadTransaction;
 

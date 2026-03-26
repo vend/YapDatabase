@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import "YapDatabaseRelationshipEdge.h"
+#import <YapDatabase/YapDatabaseRelationshipEdge.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

@@ -3,7 +3,7 @@
  */
 
 #import <Foundation/Foundation.h>
-#import "YapDatabaseExtensionTransaction.h"
+#import <YapDatabase/YapDatabaseExtensionTransaction.h>
 
 @class YapDatabaseCloudCoreOperation;
 @class YapDatabaseCloudCorePipeline;

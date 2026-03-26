@@ -1,11 +1,11 @@
 #import <Foundation/Foundation.h>
 
-#import "YapActionable.h"
-#import "YapActionItem.h"
-#import "YapDatabaseActionManagerConnection.h"
-#import "YapDatabaseActionManagerTransaction.h"
-#import "YapDatabaseAutoView.h"
-#import "YapReachability.h"
+#import <YapDatabase/YapActionable.h>
+#import <YapDatabase/YapActionItem.h>
+#import <YapDatabase/YapDatabaseActionManagerConnection.h>
+#import <YapDatabase/YapDatabaseActionManagerTransaction.h>
+#import <YapDatabase/YapDatabaseAutoView.h>
+#import <YapDatabase/YapReachability.h>
 
 @class YapDatabaseConnection;
 

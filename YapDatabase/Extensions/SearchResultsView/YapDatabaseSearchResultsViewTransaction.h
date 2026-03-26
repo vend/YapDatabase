@@ -1,7 +1,7 @@
 #import <Foundation/Foundation.h>
 
-#import "YapDatabaseAutoViewTransaction.h"
-#import "YapDatabaseSearchQueue.h"
+#import <YapDatabase/YapDatabaseAutoViewTransaction.h>
+#import <YapDatabase/YapDatabaseSearchQueue.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

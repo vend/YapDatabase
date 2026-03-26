@@ -1,13 +1,13 @@
 #import <Foundation/Foundation.h>
 
-#import "YapDatabaseTypes.h"
-#import "YapDatabaseOptions.h"
-#import "YapDatabaseConnection.h"
-#import "YapDatabaseTransaction.h"
-#import "YapDatabaseExtension.h"
-#import "YapDatabaseConnectionConfig.h"
+#import <YapDatabase/YapDatabaseTypes.h>
+#import <YapDatabase/YapDatabaseOptions.h>
+#import <YapDatabase/YapDatabaseConnection.h>
+#import <YapDatabase/YapDatabaseTransaction.h>
+#import <YapDatabase/YapDatabaseExtension.h>
+#import <YapDatabase/YapDatabaseConnectionConfig.h>
 
-#import "YDBLogMessage.h"
+#import <YapDatabase/YDBLogMessage.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

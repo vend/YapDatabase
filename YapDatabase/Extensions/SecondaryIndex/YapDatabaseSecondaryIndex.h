@@ -1,12 +1,12 @@
 #import <Foundation/Foundation.h>
 
-#import "YapDatabaseExtension.h"
+#import <YapDatabase/YapDatabaseExtension.h>
 
-#import "YapDatabaseSecondaryIndexSetup.h"
-#import "YapDatabaseSecondaryIndexHandler.h"
-#import "YapDatabaseSecondaryIndexOptions.h"
-#import "YapDatabaseSecondaryIndexConnection.h"
-#import "YapDatabaseSecondaryIndexTransaction.h"
+#import <YapDatabase/YapDatabaseSecondaryIndexSetup.h>
+#import <YapDatabase/YapDatabaseSecondaryIndexHandler.h>
+#import <YapDatabase/YapDatabaseSecondaryIndexOptions.h>
+#import <YapDatabase/YapDatabaseSecondaryIndexConnection.h>
+#import <YapDatabase/YapDatabaseSecondaryIndexTransaction.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
