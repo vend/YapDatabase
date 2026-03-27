@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
 		"Robbie Hanson" => "robbiehanson@deusty.com"
 	}
 	s.source = {
-		:git => "https://github.com/yapstudios/YapDatabase.git",
+		:git => "https://github.com/vend/YapDatabase.git",
 		:tag => s.version.to_s
 	}
 
