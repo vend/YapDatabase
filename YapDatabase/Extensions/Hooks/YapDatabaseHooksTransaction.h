@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import "YapDatabaseExtensionTransaction.h"
+#import <YapDatabase/YapDatabaseExtensionTransaction.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

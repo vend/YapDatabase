@@ -1,9 +1,9 @@
 #import <Foundation/Foundation.h>
 
-#import "YapDatabaseAutoView.h"
-#import "YapDatabaseSearchResultsViewOptions.h"
-#import "YapDatabaseSearchResultsViewConnection.h"
-#import "YapDatabaseSearchResultsViewTransaction.h"
+#import <YapDatabase/YapDatabaseAutoView.h>
+#import <YapDatabase/YapDatabaseSearchResultsViewOptions.h>
+#import <YapDatabase/YapDatabaseSearchResultsViewConnection.h>
+#import <YapDatabase/YapDatabaseSearchResultsViewTransaction.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

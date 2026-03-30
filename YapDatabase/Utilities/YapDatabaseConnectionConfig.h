@@ -1,6 +1,6 @@
 #import <Foundation/Foundation.h>
 
-#import "YapDatabaseConnection.h"
+#import <YapDatabase/YapDatabaseConnection.h>
 
 /**
  * Allows you to configure the default values for new connections.

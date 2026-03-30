@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import "YapWhitelistBlacklist.h"
+#import <YapDatabase/YapWhitelistBlacklist.h>
 
 /**
  * Welcome to YapDatabase!

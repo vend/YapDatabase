@@ -4,26 +4,26 @@
 
 #import <Foundation/Foundation.h>
 
-#import "YapDatabase.h"
-#import "YapDatabaseConnection.h"
-#import "YapDatabaseTransaction.h"
+#import <YapDatabase/YapDatabase.h>
+#import <YapDatabase/YapDatabaseConnection.h>
+#import <YapDatabase/YapDatabaseTransaction.h>
 
-#import "YapDatabaseCloudCoreOptions.h"
-#import "YapDatabaseCloudCore.h"
-#import "YapDatabaseCloudCoreConnection.h"
-#import "YapDatabaseCloudCoreTransaction.h"
+#import <YapDatabase/YapDatabaseCloudCoreOptions.h>
+#import <YapDatabase/YapDatabaseCloudCore.h>
+#import <YapDatabase/YapDatabaseCloudCoreConnection.h>
+#import <YapDatabase/YapDatabaseCloudCoreTransaction.h>
 
-#import "YapDatabaseCloudCoreOperationPrivate.h"
-#import "YapDatabaseCloudCorePipelinePrivate.h"
-#import "YapDatabaseCloudCoreGraphPrivate.h"
+#import <YapDatabase/YapDatabaseCloudCoreOperationPrivate.h>
+#import <YapDatabase/YapDatabaseCloudCorePipelinePrivate.h>
+#import <YapDatabase/YapDatabaseCloudCoreGraphPrivate.h>
 
-#import "YapCache.h"
-#import "YapManyToManyCache.h"
+#import <YapDatabase/YapCache.h>
+#import <YapDatabase/YapManyToManyCache.h>
 
 #ifdef SQLITE_HAS_CODEC
   #import <SQLCipher/sqlite3.h>
 #else
-  #import "sqlite3.h"
+  #import <sqlite3.h>
 #endif
 
 /**

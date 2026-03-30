@@ -1,6 +1,6 @@
 #import <Foundation/Foundation.h>
 
-#import "YapDatabase.h"
+#import <YapDatabase/YapDatabase.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

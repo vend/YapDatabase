@@ -1,6 +1,6 @@
 #import <Foundation/Foundation.h>
 
-#import "YapDatabaseViewConnection.h"
+#import <YapDatabase/YapDatabaseViewConnection.h>
 
 @class YapDatabaseView;
 @class YapDatabaseManualView;

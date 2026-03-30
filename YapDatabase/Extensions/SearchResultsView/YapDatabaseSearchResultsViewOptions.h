@@ -1,8 +1,8 @@
 #import <Foundation/Foundation.h>
 
-#import "YapDatabaseViewOptions.h"
-#import "YapWhitelistBlacklist.h"
-#import "YapDatabaseFullTextSearchSnippetOptions.h"
+#import <YapDatabase/YapDatabaseViewOptions.h>
+#import <YapDatabase/YapWhitelistBlacklist.h>
+#import <YapDatabase/YapDatabaseFullTextSearchSnippetOptions.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

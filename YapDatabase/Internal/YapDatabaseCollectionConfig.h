@@ -6,7 +6,8 @@
  * API Reference  : https://yapstudios.github.io/YapDatabase/
 **/
 
-#import "YapDatabaseTypes.h"
+#import <Foundation/Foundation.h>
+#import <YapDatabase/YapDatabaseTypes.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

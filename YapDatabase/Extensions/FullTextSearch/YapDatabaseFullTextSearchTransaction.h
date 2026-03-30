@@ -1,7 +1,7 @@
 #import <Foundation/Foundation.h>
 
-#import "YapDatabaseExtensionTransaction.h"
-#import "YapDatabaseFullTextSearchSnippetOptions.h"
+#import <YapDatabase/YapDatabaseExtensionTransaction.h>
+#import <YapDatabase/YapDatabaseFullTextSearchSnippetOptions.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

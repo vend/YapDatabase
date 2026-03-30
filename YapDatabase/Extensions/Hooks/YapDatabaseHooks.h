@@ -1,13 +1,13 @@
 #import <Foundation/Foundation.h>
 
-#import "YapDatabase.h"
-#import "YapDatabaseExtension.h"
+#import <YapDatabase/YapDatabase.h>
+#import <YapDatabase/YapDatabaseExtension.h>
 
-#import "YapDatabaseHooksConnection.h"
-#import "YapDatabaseHooksTransaction.h"
+#import <YapDatabase/YapDatabaseHooksConnection.h>
+#import <YapDatabase/YapDatabaseHooksTransaction.h>
 
-#import "YapProxyObject.h"
-#import "YapWhitelistBlacklist.h"
+#import <YapDatabase/YapProxyObject.h>
+#import <YapDatabase/YapWhitelistBlacklist.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

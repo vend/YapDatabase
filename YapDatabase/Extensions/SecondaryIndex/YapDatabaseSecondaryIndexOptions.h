@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import "YapWhitelistBlacklist.h"
+#import <YapDatabase/YapWhitelistBlacklist.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

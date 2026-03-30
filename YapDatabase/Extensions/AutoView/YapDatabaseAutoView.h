@@ -1,10 +1,10 @@
 #import <Foundation/Foundation.h>
 
-#import "YapDatabaseView.h"
-#import "YapDatabaseViewTypes.h"
+#import <YapDatabase/YapDatabaseView.h>
+#import <YapDatabase/YapDatabaseViewTypes.h>
 
-#import "YapDatabaseAutoViewConnection.h"
-#import "YapDatabaseAutoViewTransaction.h"
+#import <YapDatabase/YapDatabaseAutoViewConnection.h>
+#import <YapDatabase/YapDatabaseAutoViewTransaction.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

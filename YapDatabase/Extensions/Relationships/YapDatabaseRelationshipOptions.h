@@ -1,7 +1,7 @@
 #import <Foundation/Foundation.h>
 
-#import "YapDatabaseRelationshipEdge.h"
-#import "YapWhitelistBlacklist.h"
+#import <YapDatabase/YapDatabaseRelationshipEdge.h>
+#import <YapDatabase/YapWhitelistBlacklist.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

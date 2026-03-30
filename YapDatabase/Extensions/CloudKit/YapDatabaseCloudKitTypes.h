@@ -1,9 +1,9 @@
 #import <Foundation/Foundation.h>
 #import <CloudKit/CloudKit.h>
 
-#import "YapDatabaseExtensionTypes.h"
-#import "YDBCKRecordInfo.h"
-#import "YDBCKMergeInfo.h"
+#import <YapDatabase/YapDatabaseExtensionTypes.h>
+#import <YapDatabase/YDBCKRecordInfo.h>
+#import <YapDatabase/YDBCKMergeInfo.h>
 
 @class YapDatabaseReadTransaction;
 @class YapDatabaseReadWriteTransaction;

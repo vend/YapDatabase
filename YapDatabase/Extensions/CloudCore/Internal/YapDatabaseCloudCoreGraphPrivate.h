@@ -4,9 +4,9 @@
 
 #import <Foundation/Foundation.h>
 
-#import "YapDatabaseCloudCorePipeline.h"
-#import "YapDatabaseCloudCoreGraph.h"
-#import "YapDatabaseCloudCore.h"
+#import <YapDatabase/YapDatabaseCloudCorePipeline.h>
+#import <YapDatabase/YapDatabaseCloudCoreGraph.h>
+#import <YapDatabase/YapDatabaseCloudCore.h>
 
 
 @interface YapDatabaseCloudCoreGraph ()

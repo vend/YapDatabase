@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import "YapCollectionKey.h"
+#import <YapDatabase/YapCollectionKey.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

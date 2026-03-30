@@ -2,10 +2,10 @@
  * Copyright Deusty LLC.
  */
 
-#import "YapDatabaseCloudCoreOperation.h"
+#import <YapDatabase/YapDatabaseCloudCoreOperation.h>
 
-#import "YapDatabaseCloudCoreOptions.h"
-#import "YapDatabaseCloudCorePipeline.h"
+#import <YapDatabase/YapDatabaseCloudCoreOptions.h>
+#import <YapDatabase/YapDatabaseCloudCorePipeline.h>
 
 @class YapDatabaseCloudCore;
 

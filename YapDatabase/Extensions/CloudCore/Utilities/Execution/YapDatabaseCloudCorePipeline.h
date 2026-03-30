@@ -4,10 +4,10 @@
 
 #import <Foundation/Foundation.h>
 
-#import "YapDatabaseCloudCorePipelineDelegate.h"
-#import "YapDatabaseCloudCoreGraph.h"
-#import "YapDatabaseCloudCoreOperation.h"
-#import "YapDatabaseCloudCore.h"
+#import <YapDatabase/YapDatabaseCloudCorePipelineDelegate.h>
+#import <YapDatabase/YapDatabaseCloudCoreGraph.h>
+#import <YapDatabase/YapDatabaseCloudCoreOperation.h>
+#import <YapDatabase/YapDatabaseCloudCore.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
